@@ -1,0 +1,11 @@
+{
+  "name": "jenkins_ci",
+  "version": "1.0.0",
+  "description": "to learn jenkins continous integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rohan mishra",
+  "license": "ISC"
+}
